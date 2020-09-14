@@ -2,13 +2,13 @@
 <h3>Projet Live </h3>: http://sorting.pythonanywhere.com/mainapp/
 
 This project was done by me to make understanding easyer for Algorithms learner.
-It's A part of Hole Project Called - <h5>All Algo Visulization</h5>
+It's A part of Hole Project Called - <h3>All Algo Visulization</h3>
 
 <h2>Assignment Problem Statement:</h2>
 
 
 
-<h4>Idea</h4>
+<h4>Working</h4>
 <ol>
      <li>Four Basic Sorting technic </li>
      <li>Bubble Sort</li>
