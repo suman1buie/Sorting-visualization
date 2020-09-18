@@ -38,14 +38,10 @@ It's A part of Hole Project Called - <h3>All Algo Visulization</h3>
 
 
 
-# Screenshots : 
-<img src="Screenshots/redmi1.png" height="400" width="800">
-<img src="Screenshots/redmi2.png" height="400" width="800">
-<img src="Screenshots/redmi3.png" height="400" width="800">
-<img src="Screenshots/redmi4.png" height="400" width="800">
-<img src="Screenshots/redmi5.png" height="400" width="800">
-<img src="Screenshots/redmi6.png" height="400" width="800">
-<img src="Screenshots/redmi7.png" height="400" width="800">
+# Demo : 
+ <video width="320" height="240" controls>
+  <source src="sorting.mp4" type="video/mp4">
+ </video>
 
 # Support :
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
