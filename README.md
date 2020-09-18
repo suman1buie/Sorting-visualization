@@ -39,9 +39,12 @@ It's A part of Hole Project Called - <h3>All Algo Visulization</h3>
 
 
 # Demo : 
- <video width="320" height="240" controls>
-  <source src="sorting.mp4" type="video/mp4">
- </video>
+ <video controls width="250">
+    <source src="sorting.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 # Support :
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
